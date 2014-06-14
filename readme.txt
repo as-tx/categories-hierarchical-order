@@ -30,7 +30,7 @@ e.g.
 
 == Frequently Asked Questions ==
 
-= Is this plugin compatible with custom taxonomies?
+= Is this plugin compatible with custom taxonomies? =
 Yes. this plugin supports custom taxonomy
 
 = Is there any setting option with this plugin? =
