@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Categories in Hierarchical Order
-Plugin URI: https://fellowtuts.com/categories-in-hierarchical-order-plugin/
+Plugin URI: https://www.astech.club/wordpress-javascript-jquery-plugins/categories-hierarchical-order/
 Description: This plugin maintains the hierarchical order of categories list in Category tab under your WordPress admin post editor.
 Version: 1.3
 Author: AS Tech Solutions
