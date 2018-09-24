@@ -4,7 +4,7 @@ Donate link: https://www.paypal.me/astx
 Tags: taxonomy, category, hierarchy, order, custom taxonomy, parent, child, default, admin, edit post, post, tab, plugin, wordpress
 Requires at least: 3.0
 Tested up to: 4.9.8
-Stable tag: 1.3
+Stable tag: 1.3.1
 License: GPLv2 or later
 
 Categories in Hierarchical Order plugin maintains the hierarchical order of categories list in the Category tab under your WordPress Admin Post Editor.
@@ -41,6 +41,9 @@ No, this plugin hasn't any setting
 
 == Changelog ==
 
+= 1.3.1 =
+* Security improvement by blocking direct file access
+
 = 1.3 =
 * GitHub and support links updated
 * Tested up to WordPress version 4.9.8
@@ -55,6 +58,9 @@ No, this plugin hasn't any setting
 * Maintain category hierarchical order
 
 == Upgrade Notice ==
+
+= 1.3.1 =
+Blocked: Direct file access
 
 = 1.3 =
 Added: GitHub repo
