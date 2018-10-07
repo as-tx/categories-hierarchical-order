@@ -15,7 +15,7 @@ This plugin contains functionality to let you maintain default hierarchical orde
 
 The selected category/categories, to which a post belongs, are by default pushed at the top in the Category tab while saving the post. Whereas activating Categories in Hierarchical Order plugin will keep the position of selected category/categories unchanged as per their parent/child relationship.
 
-For support, use support page available here or visit [the page](https://www.astech.club/wordpress-javascript-jquery-plugins/categories-hierarchical-order/) at our official website. A [GitHub repo](https://github.com/as-tx/categories-hierarchical-order) is also there to post issues, contribution and feature requests.
+For support, use support page available here or visit [the page](https://www.astech.solutions/wordpress-javascript-jquery-plugins/categories-hierarchical-order/) at our official website. A [GitHub repo](https://github.com/as-tx/categories-hierarchical-order) is also there to post issues, contribution and feature requests.
 
 == Installation ==
 
